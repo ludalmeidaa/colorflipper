@@ -1,0 +1,26 @@
+nav {
+    width: auto;
+}
+
+.container {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+
+}
+
+.main {
+   position: absolute;
+   top: 35%;
+   left: 40%; 
+}
+
+.background-color {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.btn {
+    border: 1px solid black;
+    border-radius: 5px;
+}
